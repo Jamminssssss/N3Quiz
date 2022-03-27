@@ -14,9 +14,7 @@
 6.일본어 단어,문법,독해 부분을 추가 했습니다.
 
 
-<img width="288" alt="스크린샷 2022-03-27 오후 3 39 05" src="https://user-images.githubusercontent.com/91593<img width="277" alt="스크린샷 2022-03-27 오후 3 40 36" src="https://user-images.githubusercontent.com/91593937/160270224-5df9904c-c81d-44f9-b5a9-036d65d93e57.png">937/160270207-739c0833-6220-4f5f-9f2a-2db5a35e0761.png">![Uploading 스크린샷 2022-03-27 오후 3.39.18.png…]()
-
-
+<img width="288" alt="스크린샷 2022-03-27 오후 3 39 05" src="https://user-images.githubusercontent.com/91593937/160270244-e77aefb8-0007-4d66-af0a-657ba50cd863.png"><img width="271" alt="스크린샷 2022-03-27 오후 3 39 18" src="https://user-images.githubusercontent.com/91593937/160270247-1f390239-15aa-4df1-a413-f588f3606f20.png"><img width="277" alt="스크린샷 2022-03-27 오후 3 40 36" src="https://user-images.githubusercontent.com/91593937/160270249-f4cd07cf-d427-48da-9e52-7731267eca48.png">
 
 이 유튜브 채널을 참고해서 제작한 앱입니다.
 
